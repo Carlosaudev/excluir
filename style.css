@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(100, 99, 99);
+}
+.passar {
+    background-color: rgb(131, 128, 128);
+    padding: 10px;
+    transition: background-color 0.3 ease;
+}
+.passar:hover {
+    background-color: rgb(119, 119, 119);
+}
+p {
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+}
+.snk {
+    font-size: 20px;
+    font-weight: bold;
+}
+img {
+    width: 80%;
+    max-width: 300px;
+    display: block; 
+    margin: 0 auto;
+}
+li {
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.finalizacao {
+font-weight: bold;
+font-size: 19px;
+}
+footer {
+    background-color: rgb(171, 177, 177);
+}
